@@ -1,0 +1,11 @@
+{
+  "generator": "gemini-3-pro-image",
+  "prompt": "Using the attached official character sheet and approved sprite as the strict reference, draw Orbi, the Odd Orbit Software mascot, in the cosy PS1 low-poly style shown on the sheet: chunky faceted polygons, small pixelated texture details, angular hair clumps, warm limited shading. Keep every fixed trait exactly: vibrant violet high messy ponytail and face-framing bangs, violet eyes, purple-lensed goggles on top of her head, dark headphones with the orbit insignia around her neck, dark oversized utility hoodie with the orbit emblem, pale lavender undershirt, dark cargo trousers with gold hardware, fingerless gloves, lace-up boots with violet laces.\n\nPose: standing, holding a small parcel box under one arm, the other hand raised in a cheerful wave goodbye, friendly smile, three-quarter view. Full body, centred, with generous margin. Background: one perfectly flat solid colour #0F1220, no gradient, no floor, no shadow, no other props, no text, no logo.\n",
+  "references": [
+    "/home/pmck/Projects/Orbi/canonical/approved-references/orbi-ps1-master.png",
+    "/home/pmck/Projects/OddOrbitSite/public/orbi/orbi-sit.webp"
+  ],
+  "aspect": "3:4",
+  "created": "2026-11-24T13:01:53.437480+00:00",
+  "approved": false
+}

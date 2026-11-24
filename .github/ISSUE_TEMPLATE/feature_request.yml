@@ -1,0 +1,20 @@
+name: Feature idea
+description: Suggest something new or a change to how something works.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The situation you're in and what gets in the way. This matters more to us than a specific solution.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help
+      description: How you imagine it working, if you have an idea.
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Anything you've tried instead

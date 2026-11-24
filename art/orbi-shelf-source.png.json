@@ -1,0 +1,11 @@
+{
+  "generator": "gemini-3-pro-image",
+  "prompt": "Render this scene as a late-1990s PlayStation 1 game screenshot, matching the attached PS1 reference sheet and approved sitting sprite exactly in style: chunky low-poly geometry with clearly visible flat-shaded facets, low-resolution pixelated textures, slightly angular hair clumps, simple blocky hands, vertex-lit warm shading, subtle dithering. Not a smooth illustration, not anime cel shading, not voxels.\n\nCharacter: Orbi exactly as on the attached sheet, same model: vibrant violet high messy ponytail with angular clumps and bangs, violet eyes, purple-lensed goggles on her head, dark headphones with the orbit insignia around her neck, dark oversized utility hoodie with the violet orbit emblem on the sleeve, pale lavender undershirt with the orbit emblem, dark purple cargo trousers with gold buckles, fingerless gloves, chunky boots with violet laces.\n\nScene: a wide, low, violet-lacquered display shelf (deep violet #3a2f6e with a thin gold lip along each plank edge, lit by a warm gold strip light under the top) standing in a dark midnight room (#0F1220). On the shelf stand five small boxed software releases like retro game boxes, each a different colour: a deep night-blue box with a small cat on a crescent moon, a deep teal box with headphones, a pale green box with a little house, a pale grey-paper box with a tiny e-paper screen, and a dark box with a green 3x3 grid. Orbi sits on top of the shelf at the right end, boots dangling over the edge, waving at the viewer with a friendly curious smile. A few small violet and gold four-point stars float in the dark above.\n\nComposition: very wide 21:9 banner, shelf centred and filling the lower two thirds, generous dark margin around it. No text, no letters, no logos, no watermark.\n",
+  "references": [
+    "/home/pmck/Projects/Orbi/canonical/approved-references/orbi-ps1-master.png",
+    "/home/pmck/Projects/OddOrbitSite/public/orbi/orbi-sit.webp"
+  ],
+  "aspect": "21:9",
+  "created": "2026-11-24T13:01:55.746478+00:00",
+  "approved": false
+}

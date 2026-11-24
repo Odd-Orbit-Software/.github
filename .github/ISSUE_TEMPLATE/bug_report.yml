@@ -1,0 +1,43 @@
+name: Bug report
+description: Something isn't working the way it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for reporting this. The more we can reproduce, the faster we can fix it.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The release you're using, or the commit if you built it yourself.
+      placeholder: e.g. 1.0.1
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Where it's running
+      description: OS and hardware, e.g. Arch Linux x86_64, LG C2 webOS 22, Raspberry Pi Zero 2 W.
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. …
+        2. …
+        3. …
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Paste any error output. Screenshots can be dropped in here too.
+      render: text

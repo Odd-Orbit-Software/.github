@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security problem
+    url: https://oddorbit.software/contact/
+    about: Please don't report security problems in public. See SECURITY.md, or use the Security tab's "Report a vulnerability".
+  - name: Want something built?
+    url: https://oddorbit.software/contact/
+    about: Commissions and general questions go through our contact page.
